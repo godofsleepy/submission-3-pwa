@@ -1,0 +1,15 @@
+{
+    "name": "submission3",
+    "short_name": "PWA 3",
+    "theme_color": "#00897b",
+    "background_color": "#00897b",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "/index.html",
+    "icons": [{
+        "src": "images/icons/icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "gcm_sender_id": "550633660371"
+}
